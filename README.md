@@ -1,5 +1,5 @@
 <p>
-  <h2 align="center"> Hey there! I'm Alyorbek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+  <h2 align="center"> Hey there! I'm Asilbek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 </p>
 <br>
 <p>
