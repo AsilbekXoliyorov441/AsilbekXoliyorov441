@@ -11,8 +11,8 @@
 <br>
 - 🔋  I’m <b>Frontend</b> developer .<br>
 - 💬 Ask me about anything, I am happy to help<br>
-- 📫 How to reach me: alyorbek391@gmail.com<br>
-- 📞 +998 (77) 153 66 05 <br> 
+- 📫 How to reach me: https://t.me/Xoliyorov_AsiIbek<br>
+- 📞 +998 (93) 755 04 12 <br> 
 - 📌 Uzbekistan , Tashkent
 <br> 
 <br>
@@ -56,6 +56,5 @@
 
 ### Follow Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/Esonaliyev_Alyorbek)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/alyorbek-esonaliyev-9a6a27321/)
-[![YouTube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=YouTube&logoColor=#E4405F)](https://www.youtube.com/@AlyorbekEsonaliyev)
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/Xoliyorov_AsiIbek)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/asilbek-xoliyorov-58127a2aa/)
